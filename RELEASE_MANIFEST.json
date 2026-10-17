@@ -1,0 +1,11 @@
+{
+  "release_scope": "Read-only IMPROVE data qualification and synthetic tests",
+  "upstream_private_commit": "57b4a7e2e0934fddd71341960b33b7153f2c0852",
+  "modules": 18,
+  "synthetic_test_modules": 17,
+  "original_archive_included": false,
+  "private_source_exports_included": false,
+  "outcome_model_trained": false,
+  "phase_15h_regeneration_included": false,
+  "review_note": "Source records / source preparation decisions require independent specialist adjudication. No original outcome labels exported."
+}

@@ -1,0 +1,14 @@
+.venv/
+.venv-*/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+data/
+outputs/
+*.zip
+*.gguf
+*.safetensors
+*.onnx

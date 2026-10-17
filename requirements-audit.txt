@@ -1,0 +1,6 @@
+# Tested isolated environment: Windows / Python 3.11
+numpy==1.26.4
+rdkit==2026.9.1
+mordred==1.2.0
+networkx==2.8.8
+six==1.17.0
